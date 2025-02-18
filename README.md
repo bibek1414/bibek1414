@@ -1,73 +1,83 @@
-# Hi, I'm Bibek! 👋
+<h1 align="center">Hi there, I'm Bibek Bhattarai 👋</h1>
+<h3 align="center">A Passionate Full-Stack Developer | DevOps Enthusiast 🚀</h3>
 
-🚀 Full Stack Developer | DevOps Enthusiast | Open-Source Contributor  
-📍 Based in Nepal  
-📧 Contact me: bibek@example.com  
-🔭 I’m currently learning: **FastAPI, Next.js Full Stack Development, DevOps**  
-💬 Ask me about: **Python, Django, React, Tailwind CSS, Linux, Git & GitHub, MongoDB, Docker**  
-
----
-
-## 🚀 Tech Stack:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bibek1414&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+## 🚀 About Me  
+👋 Hello! I'm **Bibek Bhattarai**, a **full-stack developer** with a passion for creating modern and scalable applications. I specialize in frontend and backend development, with a keen interest in DevOps.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubuntu&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ubuntu&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubuntu&layout=compact&theme=radical)
+🎓 **Education**  
+- Completed **Bachelor’s in Computer Science and Information Technology (BSc CSIT) - 2024**  
 
----
+🎯 **What I Do?**  
+- Design and develop **scalable** web applications  
+- Optimize **backend** with Django, Node.js, and MongoDB  
+- Implement **DevOps** techniques for smooth deployment  
+- Experiment with new technologies to build innovative projects  
 
-## 🏆 My GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ubuntu&theme=radical&no-bg=true&margin-w=4)
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ubuntu&theme=react-dark)
+💡 **Fun Fact:** The term 'bug' in programming originated when a moth caused a malfunction in an early computer! 🐛  
 
 ---
 
-## 🔗 Connect With Me:
+## 🔥 Skills & Technologies  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com/)
+### 💻 Frontend  
+- HTML, CSS, Tailwind CSS  
+- JavaScript, React.js, Next.js  
 
----
+### ⚙️ Backend  
+- Python, Django  
+- Node.js, MongoDB  
 
-## 📜 Featured Projects
-
-### 📝 Django AI Chatbot
-- **Deployed on:** Railway, Vercel (frontend), AWS EC2
-- **Features:** WebSockets for real-time chatting, GPT4All fine-tuned for better responses, chat history stored in a database.
-- **Repo:** [GitHub Link](https://github.com/ubuntu/django-ai-chatbot)
-
-### ✅ Task Management App (FastAPI)
-- **Features:** CRUD tasks, JWT authentication, PostgreSQL database.
-- **Repo:** [GitHub Link](https://github.com/ubuntu/task-management)
-
-### 🔍 GitHub User Finder (React)
-- **Tech:** React, GitHub API, Tailwind CSS.
-- **Repo:** [GitHub Link](https://github.com/ubuntu/github-user-finder)
+### 🛠️ DevOps & Tools  
+- Git, GitHub  
+- Docker, CI/CD  
 
 ---
 
-## ⚡ Fun Fact:
-I love **dark coffee without sugar** in the morning ☕ and enjoy playing games 🎮!
+## 🏆 **Projects**  
 
+### 1️⃣ Hamro Pasal 🛒  
+A **full-stack e-commerce** web application built with Next.js, Tailwind CSS, MongoDB, AWS, Google Console, and Stripe.  
+🔗 **Live Demo:** [Visit Here](https://ecommerce-front-nine-mu.vercel.app/)  
+📌 **GitHub:** [Repo Link](https://github.com/bibek1414/ecommerce-frontend-backend)  
+
+### 2️⃣ Todo Project ✅  
+A **task management** app built with Django, allowing users to add, edit, and delete tasks.  
+🔗 **Live Demo:** [Visit Here](https://todo-90zm.onrender.com)  
+📌 **GitHub:** [Repo Link](https://github.com/bibek1414/todo-django)  
+
+### 3️⃣ Tweeter Bar 🐦  
+A **social media** app built with Django for user authentication, posting, and editing tweets.  
+🔗 **Live Demo:** [Visit Here](https://tweet-django-xxrw.onrender.com)  
+📌 **GitHub:** [Repo Link](https://github.com/bibek1414/tweet-django)  
+
+### 4️⃣ Quiz Application 🎯  
+A **quiz web application** built with Django, Tailwind CSS, and JavaScript, allowing users to take quizzes and view results.  
+🔗 **Live Demo:** [Visit Here](https://quiz-django.onrender.com/)  
+📌 **GitHub:** [Repo Link](https://github.com/bibek1414/quiz_django)  
+
+---
+
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibek1414&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek1414&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 **Contact Me**  
+📩 **Email:** bibek1414@example.com *(Replace with your actual email)*  
+🔗 **Portfolio:** [Coming Soon...]  
+📌 **LinkedIn:** [Coming Soon...]  
+🐦 **Twitter:** [Coming Soon...]  
+
+Let's build something amazing together! 🚀  
