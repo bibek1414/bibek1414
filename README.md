@@ -1,83 +1,104 @@
-<h1 align="center">Hi there, I'm Bibek Bhattarai 👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer | DevOps Enthusiast 🚀</h3>
+# Hi, I'm Bibek Bhattarai! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bibek1414&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🚀 About Me  
-👋 Hello! I'm **Bibek Bhattarai**, a **full-stack developer** with a passion for creating modern and scalable applications. I specialize in frontend and backend development, with a keen interest in DevOps.  
-
-🎓 **Education**  
-- Completed **Bachelor’s in Computer Science and Information Technology (BSc CSIT) - 2024**  
-
-🎯 **What I Do?**  
-- Design and develop **scalable** web applications  
-- Optimize **backend** with Django, Node.js, and MongoDB  
-- Implement **DevOps** techniques for smooth deployment  
-- Experiment with new technologies to build innovative projects  
-
-💡 **Fun Fact:** The term 'bug' in programming originated when a moth caused a malfunction in an early computer! 🐛  
+🚀 **Full Stack Developer** | **DevOps Enthusiast** | **Open-Source Contributor**  
+📍 Based in **Nepal**  
+📧 Contact me: **bbhattarai770@gmail.com**  
+🔭 I’m currently learning: **FastAPI, Next.js Full Stack Development, DevOps**  
+💬 Ask me about: **Python, Django, React, Tailwind CSS, Linux, Git & GitHub, MongoDB, Docker**  
 
 ---
 
-## 🔥 Skills & Technologies  
+## � My Tech Stack
 
-### 💻 Frontend  
-- HTML, CSS, Tailwind CSS  
-- JavaScript, React.js, Next.js  
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### ⚙️ Backend  
-- Python, Django  
-- Node.js, MongoDB  
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🛠️ DevOps & Tools  
-- Git, GitHub  
-- Docker, CI/CD  
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 🏆 **Projects**  
-
-### 1️⃣ Hamro Pasal 🛒  
-A **full-stack e-commerce** web application built with Next.js, Tailwind CSS, MongoDB, AWS, Google Console, and Stripe.  
-🔗 **Live Demo:** [Visit Here](https://ecommerce-front-nine-mu.vercel.app/)  
-📌 **GitHub:** [Repo Link](https://github.com/bibek1414/ecommerce-frontend-backend)  
-
-### 2️⃣ Todo Project ✅  
-A **task management** app built with Django, allowing users to add, edit, and delete tasks.  
-🔗 **Live Demo:** [Visit Here](https://todo-90zm.onrender.com)  
-📌 **GitHub:** [Repo Link](https://github.com/bibek1414/todo-django)  
-
-### 3️⃣ Tweeter Bar 🐦  
-A **social media** app built with Django for user authentication, posting, and editing tweets.  
-🔗 **Live Demo:** [Visit Here](https://tweet-django-xxrw.onrender.com)  
-📌 **GitHub:** [Repo Link](https://github.com/bibek1414/tweet-django)  
-
-### 4️⃣ Quiz Application 🎯  
-A **quiz web application** built with Django, Tailwind CSS, and JavaScript, allowing users to take quizzes and view results.  
-🔗 **Live Demo:** [Visit Here](https://quiz-django.onrender.com/)  
-📌 **GitHub:** [Repo Link](https://github.com/bibek1414/quiz_django)  
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibek1414&theme=radical" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek1414&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibek1414&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=bibek1414&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibek1414&layout=compact&theme=radical)
 
 ---
 
-## 📫 **Contact Me**  
-📩 **Email:** bibek1414@example.com *(Replace with your actual email)*  
-🔗 **Portfolio:** [Coming Soon...]  
-📌 **LinkedIn:** [Coming Soon...]  
-🐦 **Twitter:** [Coming Soon...]  
+## 🏆 GitHub Trophies
 
-Let's build something amazing together! 🚀  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bibek1414&theme=radical&no-bg=true&margin-w=4)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bibek1414&theme=react-dark)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibekbhattarai14/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-django-8h2q.onrender.com)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Hamro Pasal (E-commerce)
+- **Description:** A full-stack e-commerce platform built with **Next.js**, **Tailwind CSS**, **MongoDB**, **AWS**, and **Stripe** for payments.
+- **Live Demo:** [Hamro Pasal](https://ecommerce-front-nine-mu.vercel.app/)
+- **GitHub Repo:** [Frontend](https://github.com/bibek1414/ecommerce-frontend-backend) | [Backend](https://github.com/bibek1414/ecommerce-frontend-backend)
+
+### ✅ Todo App (Django)
+- **Description:** A task management app with CRUD functionality, built with **Django**.
+- **Live Demo:** [Todo App](https://todo-90zm.onrender.com)
+- **GitHub Repo:** [Todo Django](https://github.com/bibek1414/todo-django)
+
+### 🐦 Tweeter Bar (Social Media)
+- **Description:** A social media app where users can post tweets, built with **Django**.
+- **Live Demo:** [Tweeter Bar](https://tweet-django-xxrw.onrender.com)
+- **GitHub Repo:** [Tweeter Bar](https://github.com/bibek1414/tweet-django)
+
+### � Quiz Application
+- **Description:** A quiz app built with **Django**, **Tailwind CSS**, and **JavaScript**.
+- **Live Demo:** [Quiz App](https://quiz-django.onrender.com/)
+- **GitHub Repo:** [Quiz Django](https://github.com/bibek1414/quiz_django)
+
+---
+
+## ⚡ Fun Fact
+
+I love **dark coffee without sugar** in the morning ☕ and enjoy playing games 🎮 in my free time!
+
+---
+
+## 📜 About Me
+
+Hello! I'm **Bibek Bhattarai**, a passionate **Full Stack Developer** with experience in building responsive, user-friendly applications. I completed my **+2 in Science** in 2019 and pursued a **Bachelor’s degree in Computer Science and Information Technology (BSc CSIT)**, which I completed in 2024.
+
+My goal is to keep learning, take on exciting projects, and contribute to meaningful innovations in web development. Let's connect and build something amazing together! �
+
+---
+
+💻 **Happy Coding!**  
