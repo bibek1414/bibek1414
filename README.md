@@ -1,11 +1,10 @@
-# Hi, I'm Bibek Bhattarai! 👋
-
-🚀 **Full Stack Developer** | **DevOps Enthusiast** | **Open-Source Contributor**  
-📍 Based in **Kathmandu, Nepal**  
-📧 Contact me: **bbhattarai770@gmail.com**  
-📱 Phone: **+977 9860425440**  
-🔭 I'm currently learning: **FastAPI, Next.js Full Stack Development, DevOps**  
-💬 Ask me about: **Python, Django, React, Tailwind CSS, Linux, Git & GitHub, MongoDB, Docker**  
+Hi, I'm Bibek Bhattarai! 👋
+🚀 Full Stack Developer | DevOps Enthusiast | Open-Source Contributor
+📍 Based in Kathmandu, Nepal
+📧 Contact me: bbhattarai770@gmail.com
+📱 Phone: +977 9860425440
+🔭 I'm currently learning: Machine Learning, FastAPI, DevOps
+💬 Ask me about: Python, Django, Next.js, React, Tailwind CSS, Linux, Git & GitHub, MongoDB, Docker
 
 ---
 
