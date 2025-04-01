@@ -1,11 +1,11 @@
-``
-Hi, I'm Bibek Bhattarai! 👋
-🚀 Full Stack Developer | DevOps Enthusiast | Open-Source Contributor
-📍 Based in Kathmandu, Nepal
-📧 Contact me: bbhattarai770@gmail.com
-📱 Phone: +977 9860425440
-🔭 I'm currently learning: Machine Learning, FastAPI, DevOps
-💬 Ask me about: Python, Django, Next.js, React, Tailwind CSS, Linux, Git & GitHub, MongoDB, Docker
+# Hi, I'm Bibek Bhattarai! 👋
+
+🚀 **Full Stack Developer** | **DevOps Enthusiast** | **Open-Source Contributor**  
+📍 Based in **Kathmandu, Nepal**  
+📧 Contact me: **bbhattarai770@gmail.com**  
+📱 Phone: **+977 9860425440**  
+🔭 I'm currently learning: **Machine Learning, FastAPI, DevOps**  
+💬 Ask me about: **Python, Django, Next.js, React, Tailwind CSS, Linux, Git & GitHub, MongoDB, Docker**  
 
 ---
 
@@ -37,6 +37,11 @@ I'm an innovative and detail-oriented Computer Science graduate with hands-on ex
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
