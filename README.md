@@ -4,7 +4,7 @@
 📍 Based in **Kathmandu, Nepal**  
 📧 Contact me: **bbhattarai770@gmail.com**  
 📱 Phone: **+977 9860425440**  
-🔭 I'm currently learning: **Machine Learning, FastAPI, DevOps**  
+🔭 I'm currently learning: **Machine Learning, MLOps, DevOps**  
 💬 Ask me about: **Python, Django, Next.js, React, Tailwind CSS, Linux, Git & GitHub, MongoDB, Docker**  
 
 ---
