@@ -297,10 +297,11 @@ const bibek = {
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AashishThakuri/bibek1414/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
+</picture>
+
 </div>
 <h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
 
