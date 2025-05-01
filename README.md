@@ -1,156 +1,330 @@
-# Hi, I'm Bibek Bhattarai! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bibek%20Bhattarai&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,27,36&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=55&descSize=22" width="100%" />
 
-🚀 **Full Stack Developer** | **DevOps Enthusiast** | **Open-Source Contributor**  
-📍 Based in **Kathmandu, Nepal**  
-📧 Contact me: **bbhattarai770@gmail.com**  
-📱 Phone: **+977 9860425440**  
-🔭 I'm currently learning: **Machine Learning, MLOps, DevOps**  
-💬 Ask me about: **Python, Django, Next.js, React, Tailwind CSS, Linux, Git & GitHub, MongoDB, Docker**  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Building+Digital+Solutions;Crafting+Elegant+Code;Architecting+Robust+Systems;Full+Stack+Development;DevOps+%26+Automation;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+  
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="80%" alt="coding banner">
+</div>
 
-## 🧑‍💻 About Me
+<h2><img src="https://user-images.githubusercontent.com/74038190/216654124-dc2d24b1-7987-4601-a464-8f53a2e1c8bf.gif" width="30" /> About Me</h2>
 
-Hello! I'm **Bibek Bhattarai**, a passionate **Full Stack Developer** with experience in building responsive, user-friendly applications. I completed my **Bachelor's degree in Computer Science and Information Technology (BSc CSIT)** in 2024 from **Hetauda City College** and my **Higher Secondary Education in Science** (Physics, Mathematics) from **Makwanpur Multiple Campus** in 2019.
+```javascript
+const bibek = {
+  location: "Kathmandu, Nepal 🇳🇵",
+  education: {
+    bachelor: "Computer Science and Information Technology (2024)",
+    institution: "Hetauda City College",
+    highSchool: "Science - Physics, Mathematics | Makwanpur Multiple Campus"
+  },
+  currentlyLearning: ["Machine Learning", "MLOps", "AWS Cloud Architecture"],
+  askMeAbout: ["Web Dev", "App Dev", "DevOps", "Cloud Infrastructure", "System Design"],
+  contactInfo: {
+    email: "bbhattarai770@gmail.com",
+    phone: "+977 9860425440",
+    portfolio: "https://bibekbhattarai14.com.np"
+  },
+  technologies: {
+    frontEnd: {
+      languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+      frameworks: ["React", "Next.js", "Tailwind CSS"],
+      libraries: ["GSAP", "AOS", "React Query", "Redux Toolkit"]
+    },
+    backEnd: {
+      languages: ["Python", "Node.js"],
+      frameworks: ["Django", "FastAPI", "Express"],
+      tools: ["REST APIs", "GraphQL"]
+    },
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    dataScience: ["NumPy", "Pandas", "Scikit-Learn", "TensorFlow", "PyTorch", "Keras"],
+    devOps: ["Linux", "Git", "Docker", "Kubernetes", "CI/CD Pipelines", "AWS", "Vercel"],
+    design: ["Figma", "Adobe XD", "Responsive Design"]
+  },
+  architecturePatterns: ["MVC", "Microservices", "Serverless", "JAMstack"],
+  currentFocus: "Building scalable applications with modern tech stacks and DevOps practices",
+  funFact: "I love dark coffee without sugar in the morning ☕ and gaming 🎮 in my free time!"
+};
+```
 
-I'm an innovative and detail-oriented Computer Science graduate with hands-on experience in problem-solving, software development, and technology. Adept at applying technical skills to create efficient solutions and improve processes. I'm seeking opportunities to apply my knowledge and contribute to dynamic projects in a challenging and growth-oriented environment.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
----
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Skills & Technologies</h2>
 
-## 🛠️ My Tech Stack
+<details open>
+<summary><h3>🌐 Frontend</h3></summary>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,redux,styledcomponents&perline=10" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/AOS-F5C300?style=for-the-badge&logo=aos&logoColor=black" alt="AOS" />
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+</p>
+</details>
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![AOS](https://img.shields.io/badge/AOS-F5C300?style=for-the-badge&logo=aos&logoColor=black)
+<details open>
+<summary><h3>⚙️ Backend</h3></summary>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,nodejs,express,graphql,prisma&perline=7" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+</p>
+</details>
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<details open>
+<summary><h3>🧠 AI & Machine Learning</h3></summary>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=7" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+</details>
 
-### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<details open>
+<summary><h3>🗄️ Databases</h3></summary>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&perline=5" />
+  </a>
+</p>
+</details>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<details open>
+<summary><h3>🚀 DevOps & Cloud</h3></summary>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,kubernetes,aws,vercel&perline=8" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
+</details>
 
-### DevOps & Cloud
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<details open>
+<summary><h3>🛠️ Tools & Development Environment</h3></summary>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bash,vim&perline=5" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+</p>
+</details>
 
----
+<h2><img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30" /> Featured Projects</h2>
 
-## 📊 GitHub Stats
+<div align="center">
+  <div>
+    <a href="https://github.com/bibek1414/ecommerce-frontend-backend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibek1414&repo=ecommerce-frontend-backend&theme=tokyonight&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/bibek1414/bookmyproblem">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibek1414&repo=bookmyproblem&theme=tokyonight&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF&bg_color=0D1117" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/bibek1414/expense_tracker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibek1414&repo=expense_tracker&theme=tokyonight&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/bibek1414/chatapp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibek1414&repo=chatapp&theme=tokyonight&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF&bg_color=0D1117" />
+    </a>
+  </div>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibek1414&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=bibek1414&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibek1414&layout=compact&theme=radical)
+<div align="center">
+  <h3>🛒 Hamro Pasal (E-commerce)</h3>
+  <table>
+    <tr>
+      <td>
+        <strong>Tech Stack:</strong> Next.js, Tailwind CSS, MongoDB, AWS S3, Stripe
+      </td>
+      <td>
+        <strong>Features:</strong> User authentication, product filtering, shopping cart, payment processing
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://ecommerce-front-nine-mu.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Demo-5c64f4?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/bibek1414/ecommerce-frontend-backend" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-22272e?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-## 🏆 GitHub Trophies
+  <h3>🔍 Book My Problem</h3>
+  <table>
+    <tr>
+      <td>
+        <strong>Tech Stack:</strong> Next.js, React, Tailwind CSS, MongoDB
+      </td>
+      <td>
+        <strong>Features:</strong> Service booking, real-time updates, user/provider notifications
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/bibek1414/bookmyproblem" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-22272e?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bibek1414&theme=radical&no-bg=true&margin-w=4)
+  <h3>More Projects</h3>
+  <p>
+    <a href="https://github.com/bibek1414/expense_tracker">
+      <img src="https://img.shields.io/badge/Expense_Tracker-4CAF50?style=for-the-badge&logo=django&logoColor=white"/>
+    </a>
+    <a href="https://github.com/bibek1414/chatapp">
+      <img src="https://img.shields.io/badge/Chat_App-2196F3?style=for-the-badge&logo=django&logoColor=white"/>
+    </a>
+    <a href="https://todo-90zm.onrender.com">
+      <img src="https://img.shields.io/badge/Todo_App-FF5722?style=for-the-badge&logo=django&logoColor=white"/>
+    </a>
+    <a href="https://tweet-django-xxrw.onrender.com">
+      <img src="https://img.shields.io/badge/Tweeter_Bar-1DA1F2?style=for-the-badge&logo=django&logoColor=white"/>
+    </a>
+    <a href="https://quiz-django.onrender.com/">
+      <img src="https://img.shields.io/badge/Quiz_App-9C27B0?style=for-the-badge&logo=django&logoColor=white"/>
+    </a>
+    <a href="https://github.com/bibek1414/portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=react&logoColor=white"/>
+    </a>
+  </p>
+</div>
 
-## 📈 Contribution Graph
+<h2><img src="https://user-images.githubusercontent.com/74038190/212744257-94543038-acec-4a48-a2aa-a9def11dc6c4.gif" width="40" /> GitHub Stats</h2>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bibek1414&theme=react-dark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bibek1414&theme=darkhub&no-frame=true&column=7&margin-w=10" width="100%" alt="Trophy" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bibek1414&show_icons=true&count_private=true&hide_border=true&title_color=00E8FF&icon_color=00E8FF&text_color=c9d1d9&bg_color=0d1117" alt="Bibek Bhattarai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek1414&layout=compact&hide_border=true&title_color=00E8FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibek1414&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF" width="100%" />
+</div>
 
-### 🛒 Hamro Pasal (E-commerce)
-- **Description:** A full-stack e-commerce platform built with **Next.js** for both frontend and backend, **Tailwind CSS**, **MongoDB**, **AWS S3** for storage, and **Stripe** for payments.
-- **Features:** User authentication, product filtering, shopping cart functionality
-- **Live Demo:** [Hamro Pasal](https://ecommerce-front-nine-mu.vercel.app/)
-- **GitHub Repo:** [Hamro Pasal](https://github.com/bibek1414/ecommerce-frontend-backend)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibek1414&bg_color=0d1117&color=00E8FF&line=00E8FF&point=FFFFFF&hide_border=true" width="100%"/>
+</div>
 
-### 🔍 Book My Problem
-- **Description:** A platform built with **Next.js** where users can book problem-solving services across various categories to be solved within 24 hours.
-- **Features:** Service booking, real-time updates, notifications for users and service providers
-- **GitHub Repo:** [Book My Problem](https://github.com/bibek1414/bookmyproblem)
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
-### 💰 Expense Tracker
-- **Description:** A personal finance management application using **Django** and **Tailwind CSS**
-- **Features:** Google Authentication, interactive data visualizations, role-based access controls, mobile-first responsive design
-- **GitHub Repo:** [Expense Tracker](https://github.com/bibek1414/expense_tracker)
+<h2><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Education & Experience</h2>
 
-### 💬 ChatApp
-- **Description:** Real-time chat application using **Django** and **Channels**
-- **Features:** WebRTC for audio/video calls, Redis for scalable messaging, secure authentication, contact management
-- **GitHub Repo:** [ChatApp](https://github.com/bibek1414/chatapp)
+<div align="center">
+  <table>
+    <tr>
+      <th>Education</th>
+      <th>Work Experience</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/BSc_CSIT-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="BSc CSIT" />
+        <p>Hetauda City College (2019-2024)</p>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python_&_Django_Certification-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Python & Django" />
+        <p>Broadway Infosys (2025)</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Higher_Secondary-F5C300?style=for-the-badge&logo=google-scholar&logoColor=black" alt="Higher Secondary" />
+        <p>Makwanpur Multiple Campus (2017-2019)</p>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Open_Source_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+        <p>Various Projects</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### ✅ Todo App (Django)
-- **Description:** A task management app with CRUD functionality, built with **Django**
-- **Live Demo:** [Todo App](https://todo-90zm.onrender.com)
-- **GitHub Repo:** [Todo Django](https://github.com/bibek1414/todo-django)
+<h2><img src="https://user-images.githubusercontent.com/74038190/216122065-00ec88bd-e43b-4cb0-a4f2-bbd8a2cb8958.png" width="30" /> Current Focus</h2>
 
-### 🐦 Tweeter Bar (Social Media)
-- **Description:** A social media app where users can post tweets, built with **Django**
-- **Live Demo:** [Tweeter Bar](https://tweet-django-xxrw.onrender.com)
-- **GitHub Repo:** [Tweeter Bar](https://github.com/bibek1414/tweet-django)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="MLOps" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <i>"Focusing on building scalable applications with modern tech stacks and DevOps practices"</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### ❓ Quiz Application
-- **Description:** A quiz app built with **Django**, **Tailwind CSS**, and **JavaScript**
-- **Live Demo:** [Quiz App](https://quiz-django.onrender.com/)
-- **GitHub Repo:** [Quiz Django](https://github.com/bibek1414/quiz_django)
+<h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
 
-### Additional Projects
-- [Portfolio Website](https://github.com/bibek1414/portfolio)
-- [Discussion Board](https://github.com/bibek1414/boards)
-- [Weather Application](https://github.com/bibek1414/weatherapp)
-- [Task Management](https://github.com/bibek1414/taskmanagerfront)
+<div align="center">
+  <a href="mailto:bbhattarai770@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bibekbhattarai14/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://bibekbhattarai14.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bibek1414">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="tel:+9779860425440">
+    <img src="https://img.shields.io/badge/Call-5cb85c?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bibek1414&style=for-the-badge&color=00E8FF" alt="Profile Views"/>
+</div>
 
-## 🎓 Education
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
 
-- **Bachelor of Computer Science and Information Technology (BSc CSIT)**  
-  Hetauda City College | 2019-2024
-
-- **Higher Secondary Education - Science (Physics, Mathematics)**  
-  Makwanpur Multiple Campus | 2017-2019
-
-## 📜 Certifications
-
-- **Python & Django**  
-  Broadway Infosys | 2025
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibekbhattarai14/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bibekbhattarai14.com.np)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bibek1414)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbhattarai770@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-I love **dark coffee without sugar** in the morning ☕ and enjoy playing games 🎮 in my free time!
-
----
-
-💻 **Happy Coding!**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=80&color=gradient&customColorList=24" width="100%" />
+</div>
