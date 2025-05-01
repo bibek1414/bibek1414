@@ -1,10 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bibek%20Bhattarai&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,27,36&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=55&descSize=22" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Building+Digital+Solutions;Crafting+Elegant+Code;Architecting+Robust+Systems;Full+Stack+Development;DevOps+%26+Automation;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <!-- Main Banner with Profile Info -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bibek%20Bhattarai&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,27,36&animation=fadeIn" width="100%" />
   
+  <!-- Professional Title Banner -->
+  <div align="center">
+    <a href="https://bibekbhattarai14.com.np" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-38B2AC?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;DevOps+Enthusiast;AI+Explorer;Building+Digital+Solutions;Crafting+Elegant+Code;Architecting+Robust+Systems" alt="Typing SVG" />
+  </div>
+  
+  <!-- Divider with Animation-->
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
 </div>
 
@@ -50,6 +57,15 @@ const bibek = {
   funFact: "I love dark coffee without sugar in the morning ☕ and gaming 🎮 in my free time!"
 };
 ```
+
+<!-- Snake Animation that adapts to light/dark mode -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
@@ -231,15 +247,6 @@ const bibek = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibek1414&bg_color=0d1117&color=00E8FF&line=00E8FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
 <h2><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Education & Experience</h2>
 
 <div align="center">
@@ -294,15 +301,16 @@ const bibek = {
   </table>
 </div>
 
-<!-- Snake Animation -->
+<!-- Second Snake Animation - more prominent -->
 <div align="center">
+  <h3>🐍 My Contribution Graph</h3>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
-</picture>
-
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
+  </picture>
 </div>
+
 <h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
 
 <div align="center">
