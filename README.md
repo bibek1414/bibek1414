@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="80%" alt="coding banner">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="coding banner">
 </div>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216654124-dc2d24b1-7987-4601-a464-8f53a2e1c8bf.gif" width="30" /> About Me</h2>
@@ -129,6 +129,10 @@ const bibek = {
 </p>
 </details>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" alt="tech stack animation">
+</div>
+
 <h2><img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30" /> Featured Projects</h2>
 
 <div align="center">
@@ -141,8 +145,8 @@ const bibek = {
     </a>
   </div>
   <div>
-    <a href="https://github.com/bibek1414/expense_tracker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibek1414&repo=expense_tracker&theme=tokyonight&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF&bg_color=0D1117" />
+    <a href="https://github.com/bibek1414/youtube-comment-analyzer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibek1414&repo=youtube-comment-analyzer&theme=tokyonight&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF&bg_color=0D1117" />
     </a>
     <a href="https://github.com/bibek1414/chatapp">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibek1414&repo=chatapp&theme=tokyonight&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF&bg_color=0D1117" />
@@ -150,55 +154,151 @@ const bibek = {
   </div>
 </div>
 
-<div align="center">
-  <h3>🛒 Hamro Pasal (E-commerce)</h3>
-  <table>
-    <tr>
-      <td>
-        <strong>Tech Stack:</strong> Next.js, Tailwind CSS, MongoDB, AWS S3, Stripe
-      </td>
-      <td>
-        <strong>Features:</strong> User authentication, product filtering, shopping cart, payment processing
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
+<h3 align="center">📂 Project Showcase</h3>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 Hamro Pasal (E-commerce)</h3>
+      <div align="center">
         <a href="https://ecommerce-front-nine-mu.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Demo-5c64f4?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://github.com/bibek1414/bibek1414/raw/main/assets/hamro-pasal.png" width="100%" alt="Hamro Pasal Project" />
         </a>
-        <a href="https://github.com/bibek1414/ecommerce-frontend-backend" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-22272e?style=for-the-badge&logo=github&logoColor=white"/>
+        <p>
+          <a href="https://github.com/bibek1414/ecommerce-frontend-backend" target="_blank">
+            <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://ecommerce-front-nine-mu.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Next.js, Tailwind CSS, MongoDB, AWS S3, Stripe</strong> - A full-featured e-commerce platform with user authentication, product filtering, shopping cart, and Stripe payment processing.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔍 YouTube Comment Analyzer</h3>
+      <div align="center">
+        <a href="https://github.com/bibek1414/youtube-comment-analyzer" target="_blank">
+          <img src="https://github.com/bibek1414/bibek1414/raw/main/assets/youtube-analyzer.png" width="100%" alt="YouTube Comment Analyzer" />
         </a>
-      </td>
-    </tr>
-  </table>
-
-  <h3>🔍 Book My Problem</h3>
-  <table>
-    <tr>
-      <td>
-        <strong>Tech Stack:</strong> Next.js, React, Tailwind CSS, MongoDB
-      </td>
-      <td>
-        <strong>Features:</strong> Service booking, real-time updates, user/provider notifications
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
+        <p>
+          <a href="https://github.com/bibek1414/youtube-comment-analyzer" target="_blank">
+            <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Python, Machine Learning, MLflow, Flask, JavaScript, Chart.js</strong> - A comprehensive analytics platform that uses ML to analyze sentiment and trends in YouTube comments with a Chrome extension for visualization.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">🔧 BookMyProblem</h3>
+      <div align="center">
         <a href="https://github.com/bibek1414/bookmyproblem" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-22272e?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://github.com/bibek1414/bibek1414/raw/main/assets/bookmyproblem.png" width="100%" alt="BookMyProblem" />
         </a>
-      </td>
-    </tr>
-  </table>
+        <p>
+          <a href="https://github.com/bibek1414/bookmyproblem" target="_blank">
+            <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Next.js, React, Tailwind CSS, MongoDB</strong> - A platform for booking problem-solving services with real-time updates and notifications for both users and service providers.</p>
+      </div>
+    </td>
+    <td>
+      <h3 align="center">💬 ChatApp</h3>
+      <div align="center">
+        <a href="https://github.com/bibek1414/chatapp" target="_blank">
+          <img src="https://github.com/bibek1414/bibek1414/raw/main/assets/chatapp.png" width="100%" alt="ChatApp" />
+        </a>
+        <p>
+          <a href="https://github.com/bibek1414/chatapp" target="_blank">
+            <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://chatapp-cuvv.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=render&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Django, Channels, WebRTC, Redis, Tailwind CSS</strong> - A real-time chat application with support for text messaging, audio calls, and video calls.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">💰 Expense Tracker</h3>
+      <div align="center">
+        <a href="https://github.com/bibek1414/expense_tracker" target="_blank">
+          <img src="https://github.com/bibek1414/bibek1414/raw/main/assets/expense-tracker.png" width="100%" alt="Expense Tracker" />
+        </a>
+        <p>
+          <a href="https://github.com/bibek1414/expense_tracker" target="_blank">
+            <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Django, PostgreSQL, Google Auth</strong> - A financial dashboard for tracking income, expenses, and net balance with filterable time periods and Google account integration.</p>
+      </div>
+    </td>
+    <td>
+      <h3 align="center">🔒 FaceAuth System</h3>
+      <div align="center">
+        <a href="https://github.com/bibek1414/face-auth-system" target="_blank">
+          <img src="https://github.com/bibek1414/bibek1414/raw/main/assets/faceauth.png" width="100%" alt="FaceAuth System" />
+        </a>
+        <p>
+          <a href="https://github.com/bibek1414/face-auth-system" target="_blank">
+            <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Django, OpenCV, Python, Tailwind CSS</strong> - A facial recognition-based authentication system with secure cryptographic operations and face data handling.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">🧠 Quiz App</h3>
+      <div align="center">
+        <a href="https://github.com/bibek1414/quiz_django" target="_blank">
+          <img src="https://github.com/bibek1414/bibek1414/raw/main/assets/quiz-app.png" width="100%" alt="Quiz App" />
+        </a>
+        <p>
+          <a href="https://github.com/bibek1414/quiz_django" target="_blank">
+            <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://quiz-django.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=render&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Django, Tailwind CSS, JavaScript</strong> - A quiz application that allows users to take quizzes and view their results with detailed analytics.</p>
+      </div>
+    </td>
+    <td>
+      <h3 align="center">🤖 J.A.R.V.I.S. Voice Assistant</h3>
+      <div align="center">
+        <a href="https://github.com/bibek1414/voice-assitance" target="_blank">
+          <img src="https://github.com/bibek1414/bibek1414/raw/main/assets/jarvis.png" width="100%" alt="JARVIS Voice Assistant" />
+        </a>
+        <p>
+          <a href="https://github.com/bibek1414/voice-assitance" target="_blank">
+            <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://bibek1414.github.io/voice-assitance/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>HTML, CSS, JavaScript, Web Speech API</strong> - A web-based voice assistant that processes voice commands, schedules tasks, and provides information through a sleek dark-themed UI.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
+<div align="center">
   <h3>More Projects</h3>
   <p>
-    <a href="https://github.com/bibek1414/expense_tracker">
-      <img src="https://img.shields.io/badge/Expense_Tracker-4CAF50?style=for-the-badge&logo=django&logoColor=white"/>
+    <a href="https://github.com/bibek1414/portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=react&logoColor=white"/>
     </a>
-    <a href="https://github.com/bibek1414/chatapp">
-      <img src="https://img.shields.io/badge/Chat_App-2196F3?style=for-the-badge&logo=django&logoColor=white"/>
+    <a href="https://github.com/bibek1414/task-manager">
+      <img src="https://img.shields.io/badge/Task_Manager-0277BD?style=for-the-badge&logo=react&logoColor=white"/>
     </a>
     <a href="https://todo-90zm.onrender.com">
       <img src="https://img.shields.io/badge/Todo_App-FF5722?style=for-the-badge&logo=django&logoColor=white"/>
@@ -206,13 +306,17 @@ const bibek = {
     <a href="https://tweet-django-xxrw.onrender.com">
       <img src="https://img.shields.io/badge/Tweeter_Bar-1DA1F2?style=for-the-badge&logo=django&logoColor=white"/>
     </a>
-    <a href="https://quiz-django.onrender.com/">
-      <img src="https://img.shields.io/badge/Quiz_App-9C27B0?style=for-the-badge&logo=django&logoColor=white"/>
+    <a href="https://github.com/bibek1414/anjandhakal-react">
+      <img src="https://img.shields.io/badge/Anjandhakal_Portfolio-F06292?style=for-the-badge&logo=react&logoColor=white"/>
     </a>
-    <a href="https://github.com/bibek1414/portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=react&logoColor=white"/>
+    <a href="https://github.com/bibek1414/weatherapp">
+      <img src="https://img.shields.io/badge/Weather_App-0D47A1?style=for-the-badge&logo=django&logoColor=white"/>
     </a>
   </p>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="coding gif">
 </div>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212744257-94543038-acec-4a48-a2aa-a9def11dc6c4.gif" width="40" /> GitHub Stats</h2>
