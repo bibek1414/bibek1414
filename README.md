@@ -293,7 +293,20 @@ const bibek = {
     </tr>
   </table>
 </div>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AashishThakuri&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AashishThakuri&theme=tokyonight&background=00000000&hide_border=true&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AashishThakuri&bg_color=00000000&color=00E8FF&line=00E8FF&point=FFFFFF&area=true&hide_border=true"/>
+</div>
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 <h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
 
 <div align="center">
