@@ -61,8 +61,8 @@ const bibek = {
 <!-- Snake Animation that adapts to light/dark mode -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bibek1414/snk/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bibek1414/snk/blob/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://github.com/bibek1414/bibek1414/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
