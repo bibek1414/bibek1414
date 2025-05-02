@@ -60,6 +60,7 @@ const bibek = {
 
 <!-- Snake Animation that adapts to light/dark mode -->
 <div align="center">
+  <h3>🐍 My Contribution Graph</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
@@ -246,7 +247,14 @@ const bibek = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibek1414&bg_color=0d1117&color=00E8FF&line=00E8FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
-
+<div align="center">
+  <h3>🐍 My Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
+  </picture>
+</div>
 <h2><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Education & Experience</h2>
 
 <div align="center">
@@ -302,14 +310,7 @@ const bibek = {
 </div>
 
 <!-- Second Snake Animation - more prominent -->
-<div align="center">
-  <h3>🐍 My Contribution Graph</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
-  </picture>
-</div>
+
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
 
