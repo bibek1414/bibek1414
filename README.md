@@ -50,9 +50,7 @@ const bibek = {
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     dataScience: ["NumPy", "Pandas", "Scikit-Learn", "TensorFlow", "PyTorch", "Keras"],
     devOps: ["Linux", "Git", "Docker", "Kubernetes", "CI/CD Pipelines", "AWS", "Vercel"],
-    design: ["Figma", "Adobe XD", "Responsive Design"]
   },
-  architecturePatterns: ["MVC", "Microservices", "Serverless", "JAMstack"],
   currentFocus: "Building scalable applications with modern tech stacks and DevOps practices",
   funFact: "I love dark coffee without sugar in the morning ☕ and gaming 🎮 in my free time!"
 };
