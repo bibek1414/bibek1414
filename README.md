@@ -1,6 +1,4 @@
-<div align="center">
-  <!-- Main Banner with Profile Info -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bibek%20Bhattarai&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,27,36&animation=fadeIn" width="100%" />
+
   
   <!-- Professional Title Banner -->
   <div align="center">
