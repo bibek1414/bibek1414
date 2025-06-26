@@ -1,13 +1,5 @@
 
   
-  <!-- Professional Title Banner -->
-  <div align="center">
-    <a href="https://bibekbhattarai14.com.np" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-38B2AC?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;DevOps+Enthusiast;AI+Explorer;Building+Digital+Solutions;Crafting+Elegant+Code;Architecting+Robust+Systems" alt="Typing SVG" />
-  </div>
   
   <!-- Divider with Animation-->
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
