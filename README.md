@@ -35,7 +35,7 @@ const bibek = {
     backEnd: {
       languages: ["Python", "Node.js"],
       frameworks: ["Django", "FastAPI", "Express"],
-      tools: ["REST APIs", "GraphQL"]
+      tools: ["REST APIs"]
     },
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     dataScience: ["NumPy", "Pandas", "Scikit-Learn", "TensorFlow", "PyTorch", "Keras"],
