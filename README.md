@@ -68,61 +68,6 @@ const bibek = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibek1414&bg_color=0d1117&color=00E8FF&line=00E8FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
-
-<h2><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Education & Experience</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Education</th>
-      <th>Work Experience</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/BSc_CSIT-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="BSc CSIT" />
-        <p>Hetauda City College (2019-2024)</p>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python_&_Django_Certification-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Python & Django" />
-        <p>Broadway Infosys (2025)</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Higher_Secondary-F5C300?style=for-the-badge&logo=google-scholar&logoColor=black" alt="Higher Secondary" />
-        <p>Makwanpur Multiple Campus (2017-2019)</p>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Open_Source_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-        <p>Various Projects</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2><img src="https://user-images.githubusercontent.com/74038190/216122065-00ec88bd-e43b-4cb0-a4f2-bbd8a2cb8958.png" width="30" /> Current Focus</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="MLOps" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <i>"Focusing on building scalable applications with modern tech stacks and DevOps practices"</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
 
 <div align="center">
