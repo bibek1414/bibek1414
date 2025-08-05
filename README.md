@@ -1,13 +1,4 @@
 
-  
-  
-  <!-- Divider with Animation-->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="80%" alt="coding banner">
-</div>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216654124-dc2d24b1-7987-4601-a464-8f53a2e1c8bf.gif" width="30" /> About Me</h2>
 
