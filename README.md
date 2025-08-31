@@ -99,3 +99,4 @@ const bibek = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=80&color=gradient&customColorList=24" width="100%" />
 </div>
+ ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
