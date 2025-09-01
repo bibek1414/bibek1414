@@ -95,9 +95,7 @@ const bibek = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 </div>
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-</div>
+
 <div align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
