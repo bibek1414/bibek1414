@@ -1,4 +1,26 @@
+<h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
 
+<div align="center">
+  <a href="mailto:bbhattarai770@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bibekbhattarai14/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://bibekbhattarai14.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bibek1414">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="tel:+9779860425440">
+    <img src="https://img.shields.io/badge/Call-5cb85c?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bibek1414&style=for-the-badge&color=00E8FF" alt="Profile Views"/>
+</div>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216654124-dc2d24b1-7987-4601-a464-8f53a2e1c8bf.gif" width="30" /> About Me</h2>
 
@@ -49,7 +71,6 @@ const bibek = {
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-
 <h2><img src="https://user-images.githubusercontent.com/74038190/212744257-94543038-acec-4a48-a2aa-a9def11dc6c4.gif" width="40" /> GitHub Stats</h2>
 
 <div align="center">
@@ -68,29 +89,6 @@ const bibek = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibek1414&bg_color=0d1117&color=00E8FF&line=00E8FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
-<h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
-
-<div align="center">
-  <a href="mailto:bbhattarai770@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bibekbhattarai14/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://bibekbhattarai14.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/bibek1414">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="tel:+9779860425440">
-    <img src="https://img.shields.io/badge/Call-5cb85c?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bibek1414&style=for-the-badge&color=00E8FF" alt="Profile Views"/>
-</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
@@ -99,6 +97,7 @@ const bibek = {
 <div align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=80&color=gradient&customColorList=24" width="100%" />
 </div>
