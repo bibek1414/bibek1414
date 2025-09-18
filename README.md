@@ -55,7 +55,6 @@ const bibek = {
     devOps: ["Linux", "Git", "Docker", "Kubernetes", "CI/CD Pipelines", "AWS", "Vercel"],
   },
   currentFocus: "Building scalable applications with modern tech stacks and DevOps practices",
-  funFact: "I love dark coffee without sugar in the morning ☕ and gaming 🎮 in my free time!"
 };
 ```
 
