@@ -10,6 +10,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: snake-animation
+  cancel-in-progress: false
+
 jobs:
   generate:
     permissions:
@@ -20,6 +24,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate snake.svg
         uses: Platane/snk@v3
@@ -37,3 +43,4 @@ jobs:
           commit_user_name: GitHub Action
           commit_user_email: action@github.com
           commit_author: GitHub Action <action@github.com>
+          pull: '--rebase --autostash'
