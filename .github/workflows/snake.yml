@@ -1,0 +1,42 @@
+name: Generate snake animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: bibek1414
+          outputs: |
+            output/snake.svg
+            output/snake-dark.svg?palette=github-dark
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update snake animation [skip ci]"
+            git push
+          fi
