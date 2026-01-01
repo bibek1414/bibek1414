@@ -58,9 +58,25 @@ const bibek = {
 };
 ```
 
-<!-- Snake Animation that adapts to light/dark mode -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+<h2><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Contribution Animations</h2>
+
+<!-- Pacman Animation -->
 <div align="center">
-  <h3>🐍 My Contribution Graph</h3>
+  <h3>🎮 Pacman eating my contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/pacman-contribution-graph.svg" />
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/pacman-contribution-graph.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <h3>🐍 Snake eating my contributions</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
