@@ -77,11 +77,11 @@ const bibek = {
 <!-- Snake Animation -->
 <div align="center">
   <h3>🐍 Snake eating my contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/bibek1414/snk/output/github-snake-dark.svg" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
+</picture>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
