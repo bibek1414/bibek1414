@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -20,16 +20,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Fetch all history for proper merging
 
-      - name: Pull latest changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git pull origin main --rebase
-
-      - name: generate snake.svg
+      - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: bibek1414
@@ -37,12 +29,11 @@ jobs:
             output/snake.svg
             output/snake-dark.svg?palette=github-dark
 
-      - name: Commit and push
-        run: |
-          git add output/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update snake animation [skip ci]"
-            git push origin main
-          fi
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update snake animation [skip ci]"
+          file_pattern: 'output/*.svg'
+          commit_user_name: GitHub Action
+          commit_user_email: action@github.com
+          commit_author: GitHub Action <action@github.com>
