@@ -20,6 +20,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for proper merging
+
+      - name: Pull latest changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin main --rebase
 
       - name: generate snake.svg
         uses: Platane/snk@v3
@@ -31,12 +39,10 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add output/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update snake animation [skip ci]"
-            git push
+            git push origin main
           fi
