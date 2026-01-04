@@ -32,15 +32,7 @@
          width="60" height="40" alt="medium" />
   </a>
 
-  <a href="https://github.com/bibek1414" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg"
-         width="60" height="40" alt="github" />
-  </a>
 
-  <a href="https://bibekbhattarai14.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg"
-         width="60" height="40" alt="portfolio" />
-  </a>
 
   <a href="tel:+9779860425440" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
