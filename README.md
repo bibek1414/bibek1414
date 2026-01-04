@@ -2,43 +2,53 @@
 
 <div align="center">
 
-  <a href="mailto:bbhattarai770@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:bbhattarai770@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="60" height="40" alt="gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/bibekbhattarai14/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/bibekbhattarai14/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="60" height="40" alt="linkedin" />
   </a>
 
-  <a href="https://discord.com/users/669517595975614490">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/669517595975614490" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+         width="60" height="40" alt="discord" />
   </a>
 
-  <a href="https://www.facebook.com/bibekbhattarai014">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/bibekbhattarai014" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+         width="60" height="40" alt="facebook" />
   </a>
 
-  <a href="https://www.instagram.com/bibekbhattarai14/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/bibekbhattarai14/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="60" height="40" alt="instagram" />
   </a>
 
-  <a href="https://medium.com/@bbhattarai770">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="https://medium.com/@bbhattarai770" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg"
+         width="60" height="40" alt="medium" />
   </a>
 
-  <a href="https://github.com/bibek1414">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/bibek1414" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg"
+         width="60" height="40" alt="github" />
   </a>
 
-  <a href="https://bibekbhattarai14.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://bibekbhattarai14.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg"
+         width="60" height="40" alt="portfolio" />
   </a>
 
-  <a href="tel:+9779860425440">
-    <img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="tel:+9779860425440" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
+         width="60" height="40" alt="whatsapp" />
   </a>
 
 </div>
+
 
 
 <div align="center">
