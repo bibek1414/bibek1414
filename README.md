@@ -57,7 +57,11 @@ const bibek = {
   currentFocus: "Building scalable applications with modern tech stacks and DevOps practices",
 };
 ```
-
+<div align="center">
+  <a href="https://open.spotify.com/user/317pmqw3mrxsvootc53jy2bbolr4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317pmqw3mrxsvootc53jy2bbolr4&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Contribution Animations</h2>
