@@ -1,44 +1,25 @@
 <h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
 
-<div align="center">
-
-  <a href="mailto:bbhattarai770@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-         width="60" height="40" alt="gmail" />
+<p align="center">
+  <a href="mailto:bbhattarai770@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
-
-  <a href="https://www.linkedin.com/in/bibekbhattarai14/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="60" height="40" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/bibekbhattarai14/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
-
-  <a href="https://discord.com/users/669517595975614490" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-         width="60" height="40" alt="discord" />
+  <a href="https://discord.com/users/669517595975614490">
+    <img src="https://skillicons.dev/icons?i=discord" height="30" />
   </a>
-
-  <a href="https://www.facebook.com/bibekbhattarai014" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
-         width="60" height="40" alt="facebook" />
+  <a href="https://github.com/bibek1414">
+    <img src="https://skillicons.dev/icons?i=github" height="30" />
   </a>
-
-  <a href="https://www.instagram.com/bibekbhattarai14/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-         width="60" height="40" alt="instagram" />
+  <a href="https://www.instagram.com/bibekbhattarai14/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
-
- <a href="https://medium.com/@bbhattarai770" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/light.svg"
-       width="60" height="40" alt="medium" />
-</a>
-
-
-  <a href="tel:+9779860425440" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
-         width="60" height="40" alt="whatsapp" />
+  <a href="https://medium.com/@bbhattarai770">
+    <img src="https://skillicons.dev/icons?i=medium" height="30" />
   </a>
-
-</div>
+</p>
 
 
 
