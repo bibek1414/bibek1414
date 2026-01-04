@@ -27,11 +27,10 @@
          width="60" height="40" alt="instagram" />
   </a>
 
-  <a href="https://medium.com/@bbhattarai770" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg"
-         width="60" height="40" alt="medium" />
-  </a>
-
+ <a href="https://medium.com/@bbhattarai770" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/light.svg"
+       width="60" height="40" alt="medium" />
+</a>
 
 
   <a href="tel:+9779860425440" target="_blank">
