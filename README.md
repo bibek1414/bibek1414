@@ -16,9 +16,7 @@
   <a href="https://www.instagram.com/bibekbhattarai14/">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
-  <a href="https://medium.com/@bbhattarai770">
-    <img src="https://skillicons.dev/icons?i=medium" height="30" />
-  </a>
+ 
 </p>
 
 
