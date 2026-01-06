@@ -3,6 +3,7 @@
 <p align="center">
   <a href="mailto:bbhattarai770@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,dotnet,laravel,rails,nestjs,graphql,apollo" />
   </a>
   <a href="https://www.linkedin.com/in/bibekbhattarai14/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
@@ -55,79 +56,75 @@ const bibek = {
 
 ### 💻 Programming Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,php,ruby,swift,kotlin,dart,r,lua,bash,powershell,perl" />
-  </a>
+ 
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,php,ruby,swift,kotlin,dart,r,lua,bash,powershell,perl" />
 </p>
 
 ### 🎨 Frontend Development
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,react,nextjs,vue,nuxtjs,svelte,angular,redux,jquery,threejs,p5js" />
-  </a>
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,dotnet,laravel,rails,nestjs,graphql,apollo" />
-  </a>
+ 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,dotnet,laravel,rails,nestjs,graphql,apollo" />
+
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,dynamodb,firebase,supabase,prisma,planetscale" />
-  </a>
+
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,nginx,vercel,netlify,heroku,cloudflare" />
-  </a>
+
+   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,nginx,vercel,netlify,heroku,cloudflare" />
+
 </p>
 
 ### 🤖 AI/ML & Data Science
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-  </a>
+
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+
 </p>
 
 ### 🛠️ Tools & IDEs
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,git,github,gitlab,postman,figma,notion,obsidian" />
-  </a>
+
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,git,github,gitlab,postman,figma,notion,obsidian" />
+
 </p>
 
 ### 📱 Mobile Development
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,kotlin,swift" />
-  </a>
+
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,kotlin,swift" />
+ 
 </p>
 
 ### 🎮 Game Development
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender" />
-  </a>
+ 
+   <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender" />
+ 
 </p>
 
 ### 🖥️ Operating Systems
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,apple,raspberrypi" />
-  </a>
+ 
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,apple,raspberrypi" />
+
 </p>
 
 ### 🔧 Other Technologies
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webpack,vite,babel,npm,yarn,pnpm,gradle,maven,cmake,electron,tauri,selenium,kafka,rabbitmq,prometheus,grafana,elasticsearch" />
-  </a>
+ 
+  <img src="https://skillicons.dev/icons?i=webpack,vite,babel,npm,yarn,pnpm,gradle,maven,cmake,electron,tauri,selenium,kafka,rabbitmq,prometheus,grafana,elasticsearch" />
+  
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
