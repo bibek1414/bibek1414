@@ -3,16 +3,11 @@
 <p align="center">
   <a href="mailto:bbhattarai770@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
   <a href="https://www.linkedin.com/in/bibekbhattarai14/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://discord.com/users/669517595975614490"><img src="https://skillicons.dev/icons?i=discord" height="30" /> </a>
+  <a href="https://discord.com/users/669517595975614490"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>
   <a href="https://github.com/bibek1414"> <img src="https://skillicons.dev/icons?i=github" height="30" /></a>
   <a href="https://www.instagram.com/bibekbhattarai14/"> <img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
-<p align="center">
-  <a href="mailto:manavkhadka0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-  <a href="https://linkedin.com/in/manavkhadka0"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://github.com/manavkhadka0"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
-  <a href="https://twitter.com/manavkhadka0"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
-</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bibek1414&style=for-the-badge&color=00E8FF" alt="Profile Views"/>
 </div>
