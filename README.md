@@ -17,6 +17,12 @@
   <a href="https://www.instagram.com/bibekbhattarai14/">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
+  <p align="center">
+  <a href="mailto:manavkhadka0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="https://linkedin.com/in/manavkhadka0"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://github.com/manavkhadka0"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
+  <a href="https://twitter.com/manavkhadka0"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
+</p>
 </p>
 
 <div align="center">
