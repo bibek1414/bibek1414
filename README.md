@@ -16,10 +16,7 @@
   <a href="https://www.instagram.com/bibekbhattarai14/">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
- 
 </p>
-
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bibek1414&style=for-the-badge&color=00E8FF" alt="Profile Views"/>
@@ -42,34 +39,101 @@ const bibek = {
     phone: "+977 9860425440",
     portfolio: "https://bibekbhattarai14.com.np"
   },
-  technologies: {
-    frontEnd: {
-      languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-      frameworks: ["React", "Next.js", "Tailwind CSS"],
-      libraries: ["GSAP", "AOS", "React Query", "Redux Toolkit"]
-    },
-    backEnd: {
-      languages: ["Python", "Node.js"],
-      frameworks: ["Django", "FastAPI", "Express"],
-      tools: ["REST APIs"]
-    },
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    dataScience: ["NumPy", "Pandas", "Scikit-Learn", "TensorFlow", "PyTorch", "Keras"],
-    devOps: ["Linux", "Git", "Docker", "Kubernetes", "CI/CD Pipelines", "AWS", "Vercel"],
-  },
   currentFocus: "Building scalable applications with modern tech stacks and DevOps practices",
 };
 ```
+
 <div align="center">
   <a href="https://open.spotify.com/user/317pmqw3mrxsvootc53jy2bbolr4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=317pmqw3mrxsvootc53jy2bbolr4&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" /> Tech Stack</h2>
+
+### 💻 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,php,ruby,swift,kotlin,dart,r,lua,bash,powershell,perl" />
+  </a>
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,react,nextjs,vue,nuxtjs,svelte,angular,redux,jquery,threejs,p5js" />
+  </a>
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,dotnet,laravel,rails,nestjs,graphql,apollo" />
+  </a>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,dynamodb,firebase,supabase,prisma,planetscale" />
+  </a>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,nginx,vercel,netlify,heroku,cloudflare" />
+  </a>
+</p>
+
+### 🤖 AI/ML & Data Science
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  </a>
+</p>
+
+### 🛠️ Tools & IDEs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,git,github,gitlab,postman,figma,notion,obsidian" />
+  </a>
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,kotlin,swift" />
+  </a>
+</p>
+
+### 🎮 Game Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender" />
+  </a>
+</p>
+
+### 🖥️ Operating Systems
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,apple,raspberrypi" />
+  </a>
+</p>
+
+### 🔧 Other Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webpack,vite,babel,npm,yarn,pnpm,gradle,maven,cmake,electron,tauri,selenium,kafka,rabbitmq,prometheus,grafana,elasticsearch" />
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Contribution Animations</h2>
 
-<!-- Pacman Animation -->
 <div align="center">
   <h3>🎮 Pacman eating my contributions</h3>
   <picture>
@@ -81,17 +145,16 @@ const bibek = {
 
 <br/>
 
-<!-- Snake Animation -->
 <div align="center">
   <h3>🐍 Snake eating my contributions</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
+  </picture>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212744257-94543038-acec-4a48-a2aa-a9def11dc6c4.gif" width="40" /> GitHub Stats</h2>
 
