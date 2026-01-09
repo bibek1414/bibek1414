@@ -29,8 +29,24 @@ const bibek = {
     phone: "+977 9860425440",
     portfolio: "https://bibekbhattarai14.com.np"
   },
+  technologies: {
+    frontEnd: {
+      languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+      frameworks: ["React", "Next.js", "Tailwind CSS"],
+      libraries: ["GSAP", "AOS", "React Query", "Redux Toolkit"]
+    },
+    backEnd: {
+      languages: ["Python", "Node.js"],
+      frameworks: ["Django", "FastAPI", "Express"],
+      tools: ["REST APIs"]
+    },
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    dataScience: ["NumPy", "Pandas", "Scikit-Learn", "TensorFlow", "PyTorch", "Keras"],
+    devOps: ["Linux", "Git", "Docker", "Kubernetes", "CI/CD Pipelines", "AWS", "Vercel"],
+  },
   currentFocus: "Building scalable applications with modern tech stacks and DevOps practices",
 };
+
 ```
 
 <div align="center">
