@@ -62,24 +62,24 @@ const bibek = {
 ### 💻 Programming Languages
 <p align="center">
  
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,php,ruby,swift,kotlin,dart,r,lua,bash,powershell,perl" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,php,ruby,r,bash,powershell" />
 </p>
 
 ### 🎨 Frontend Development
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,react,nextjs,vue,nuxtjs,svelte,angular,redux,jquery,threejs,p5js" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,react,nextjs,nuxtjs,angular,redux,jquery,threejs" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,dotnet,laravel,rails,nestjs,graphql,apollo" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,dotnet,laravel,rails,nestjs,graphql" />
 
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,dynamodb,firebase,supabase,prisma,planetscale" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,dynamodb,firebase,supabase,prisma" />
 
 </p>
 
@@ -100,28 +100,28 @@ const bibek = {
 ### 🛠️ Tools & IDEs
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,git,github,gitlab,postman,figma,notion,obsidian" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,git,github,gitlab,postman,figma" />
 
 </p>
 
 ### 📱 Mobile Development
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio," />
  
 </p>
 
 ### 🎮 Game Development
 <p align="center">
  
-   <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender" />
+   <img src="https://skillicons.dev/icons?i=unity,blender" />
  
 </p>
 
 ### 🖥️ Operating Systems
 <p align="center">
  
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,apple,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows" />
 
 </p>
 
