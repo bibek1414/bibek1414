@@ -128,7 +128,7 @@ const bibek = {
 ### 🔧 Other Technologies
 <p align="center">
  
-  <img src="https://skillicons.dev/icons?i=webpack,vite,babel,npm,yarn,pnpm,gradle,maven,cmake,electron,tauri,selenium,kafka,rabbitmq,prometheus,grafana,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=webpack,vite,babel,npm,yarn,pnpm,selenium,prometheus,grafana" />
   
 </p>
 
