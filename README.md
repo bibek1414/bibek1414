@@ -73,7 +73,7 @@ const bibek = {
 ### ⚙️ Backend Development
 <p align="center">
  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,dotnet,laravel,rails,nestjs,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,laravel,nestjs" />
 
 </p>
 
@@ -86,7 +86,7 @@ const bibek = {
 ### ☁️ Cloud & DevOps
 <p align="center">
 
-   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,nginx,vercel,netlify,heroku,cloudflare" />
+   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,nginx,vercel,netlify,heroku,cloudflare" />
 
 </p>
 
@@ -100,22 +100,8 @@ const bibek = {
 ### 🛠️ Tools & IDEs
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,git,github,gitlab,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,git,github,gitlab,postman,figma" />
 
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio," />
- 
-</p>
-
-### 🎮 Game Development
-<p align="center">
- 
-   <img src="https://skillicons.dev/icons?i=unity,blender" />
- 
 </p>
 
 ### 🖥️ Operating Systems
