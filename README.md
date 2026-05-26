@@ -1,16 +1,20 @@
+# 👋 Hi there, I'm Bibek Bhattarai! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50">
+
 <h2><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:bbhattarai770@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
   <a href="https://www.linkedin.com/in/bibekbhattarai14/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
   <a href="https://discord.com/users/669517595975614490"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>
-  <a href="https://github.com/bibek1414"> <img src="https://skillicons.dev/icons?i=github" height="30" /></a>
-  <a href="https://www.instagram.com/bibekbhattarai14/"> <img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+  <a href="https://github.com/bibek1414"><img src="https://skillicons.dev/icons?i=github" height="30" /></a>
+  <a href="https://www.instagram.com/bibekbhattarai14/"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bibek1414&style=for-the-badge&color=00E8FF" alt="Profile Views"/>
 </div>
+
+---
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216654124-dc2d24b1-7987-4601-a464-8f53a2e1c8bf.gif" width="30" /> About Me</h2>
 
@@ -46,12 +50,11 @@ const bibek = {
   },
   currentFocus: "Building scalable applications with modern tech stacks and DevOps practices",
 };
-
 ```
 
 <div align="center">
   <a href="https://open.spotify.com/user/317pmqw3mrxsvootc53jy2bbolr4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317pmqw3mrxsvootc53jy2bbolr4&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317pmqw3mrxsvootc53jy2bbolr4&count=5" alt="Spotify recently played" />
   </a>
 </div>
 
@@ -59,88 +62,101 @@ const bibek = {
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" /> Tech Stack</h2>
 
-### 💻 Programming Languages
+💻 **Programming Languages**
 <p align="center">
- 
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,php,ruby,r,bash,powershell" />
 </p>
 
-### 🎨 Frontend Development
+🎨 **Frontend Development**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,react,nextjs,nuxtjs,angular,redux,jquery,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,react,nextjs,nuxtjs,angular,redux,jquery,threejs" />
 </p>
 
-### ⚙️ Backend Development
+⚙️ **Backend Development**
 <p align="center">
- 
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,laravel,nestjs" />
-
 </p>
 
-### 🗄️ Databases
+🗄️ **Databases**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,dynamodb,firebase,supabase,prisma" />
-
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,dynamodb,firebase,supabase,prisma" />
 </p>
 
-### ☁️ Cloud & DevOps
+☁️ **Cloud & DevOps**
 <p align="center">
-
-   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,nginx,vercel,netlify,heroku,cloudflare" />
-
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,nginx,vercel,netlify,heroku,cloudflare" />
 </p>
 
-### 🤖 AI/ML & Data Science
+🤖 **AI/ML & Data Science**
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-
 </p>
 
-### 🛠️ Tools & IDEs
+🛠️ **Tools & IDEs**
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,git,github,gitlab,postman,figma" />
-
 </p>
 
-### 🖥️ Operating Systems
+🖥️ **Operating Systems**
 <p align="center">
- 
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows" />
-
 </p>
 
-### 🔧 Other Technologies
+🔧 **Other Technologies**
 <p align="center">
- 
   <img src="https://skillicons.dev/icons?i=webpack,vite,babel,npm,yarn,pnpm,selenium,prometheus,grafana" />
-  
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Contribution Animations</h2>
 
-<div align="center">
-  <h3>🎮 Pacman eating my contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/pacman-contribution-graph.svg" />
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/pacman-contribution-graph.svg" />
-  </picture>
-</div>
+<details open>
+  <summary><b>🎮 Click to expand/collapse all arcade games! (5 games + Snake)</b></summary>
 
-<br/>
+👻 **Pac-Man eating my contributions**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/pacman-contribution-graph.svg" />
+</picture>
 
-<div align="center">
-  <h3>🐍 Snake eating my contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
-  </picture>
-</div>
+🧱 **Breakout breaking my contributions**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/breakout-contribution-graph.svg" />
+  <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/breakout-contribution-graph.svg" />
+</picture>
+
+🚀 **Galaga shooting my contributions**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/galaga-contribution-graph.svg" />
+  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/galaga-contribution-graph.svg" />
+</picture>
+
+🫧 **Puzzle Bobble popping my contributions**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/puzzle-bobble-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/puzzle-bobble-contribution-graph.svg" />
+  <img alt="Puzzle Bobble Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/puzzle-bobble-contribution-graph.svg" />
+</picture>
+
+💣 **Bomberman blasting my contributions**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/bomberman-contribution-graph.svg" />
+  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/bomberman-contribution-graph.svg" />
+</picture>
+
+🐍 **Snake eating my contributions**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/snake.svg">
+</picture>
+
+</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -152,6 +168,7 @@ const bibek = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bibek1414&show_icons=true&count_private=true&hide_border=true&title_color=00E8FF&icon_color=00E8FF&text_color=c9d1d9&bg_color=0d1117" alt="Bibek Bhattarai's GitHub Stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek1414&layout=compact&hide_border=true&title_color=00E8FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
