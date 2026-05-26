@@ -1,11 +1,9 @@
-name: Generate pacman animation
+name: Generate Arcade Contribution Games
 
 on:
   schedule: # execute every 12 hours
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -15,30 +13,49 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate pacman-contribution-graph.svg
+      - name: Generate all arcade contribution graphs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: bibek1414
+          # Generate ALL 5 games
+          games: 'pacman,breakout,galaga,puzzle-bobble,bomberman'
 
       - name: Move files to output directory
         run: |
           mkdir -p output
-          # The action generates files in the repository root or dist directory
-          if [ -f pacman-contribution-graph.svg ]; then
-            mv pacman-contribution-graph.svg output/pacman-contribution-graph.svg
-          elif [ -f dist/pacman-contribution-graph.svg ]; then
-            mv dist/pacman-contribution-graph.svg output/pacman-contribution-graph.svg
-          fi
-          # Create dark version (copy for now, action may generate it later)
-          if [ -f output/pacman-contribution-graph.svg ]; then
-            cp output/pacman-contribution-graph.svg output/pacman-contribution-graph-dark.svg
-          fi
+          
+          # List of games to process
+          games=("pacman" "breakout" "galaga" "puzzle-bobble" "bomberman")
+          
+          for game in "${games[@]}"; do
+            # The action generates files in dist directory
+            if [ -f "dist/${game}-contribution-graph.svg" ]; then
+              mv "dist/${game}-contribution-graph.svg" "output/${game}-contribution-graph.svg"
+            fi
+            if [ -f "dist/${game}-contribution-graph-dark.svg" ]; then
+              mv "dist/${game}-contribution-graph-dark.svg" "output/${game}-contribution-graph-dark.svg"
+            fi
+          done
+          
+          # Also handle any files in root directory
+          for game in "${games[@]}"; do
+            if [ -f "${game}-contribution-graph.svg" ]; then
+              mv "${game}-contribution-graph.svg" "output/${game}-contribution-graph.svg"
+            fi
+            if [ -f "${game}-contribution-graph-dark.svg" ]; then
+              mv "${game}-contribution-graph-dark.svg" "output/${game}-contribution-graph-dark.svg"
+            fi
+          done
+          
+          # List generated files for debugging
+          echo "Generated files:"
+          ls -la output/
 
       - name: Commit and push
         run: |
@@ -48,6 +65,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update Pacman contribution graph [skip ci]"
+            git commit -m "Update arcade contribution graphs [skip ci]"
             git push
           fi
