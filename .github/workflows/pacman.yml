@@ -1,7 +1,7 @@
 name: Generate Arcade Contribution Games
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -12,7 +12,7 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  generate-pacman:
+  generate-all-games:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -21,19 +21,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Pac-Man contribution graph
+      - name: Generate all contribution graphs
         uses: abozanona/pacman-contribution-graph@main
         env:
           NODE_OPTIONS: "--max-old-space-size=4096"
         with:
           github_user_name: bibek1414
-          games: "pacman"
+          # Generate all games in ONE step
+          games: "pacman,breakout,galaga,puzzle-bobble,bomberman"
 
       - name: Move files to output directory
         run: |
           mkdir -p output
-          [ -f "dist/pacman-contribution-graph.svg" ]      && mv "dist/pacman-contribution-graph.svg"      "output/pacman-contribution-graph.svg"
-          [ -f "dist/pacman-contribution-graph-dark.svg" ] && mv "dist/pacman-contribution-graph-dark.svg" "output/pacman-contribution-graph-dark.svg"
+          # Move all generated SVG files
+          for game in pacman breakout galaga puzzle-bobble bomberman; do
+            [ -f "dist/${game}-contribution-graph.svg" ] && mv "dist/${game}-contribution-graph.svg" "output/${game}-contribution-graph.svg"
+            [ -f "dist/${game}-contribution-graph-dark.svg" ] && mv "dist/${game}-contribution-graph-dark.svg" "output/${game}-contribution-graph-dark.svg"
+          done
           echo "Files in output:"; ls -la output/
 
       - name: Commit and push
@@ -44,159 +48,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update pacman contribution graph [skip ci]"
-            git pull --rebase origin main
-            git push
-          fi
-
-  generate-breakout:
-    needs: generate-pacman
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Breakout contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        env:
-          NODE_OPTIONS: "--max-old-space-size=4096"
-        with:
-          github_user_name: bibek1414
-          games: "breakout"
-
-      - name: Move files to output directory
-        run: |
-          mkdir -p output
-          [ -f "dist/breakout-contribution-graph.svg" ]      && mv "dist/breakout-contribution-graph.svg"      "output/breakout-contribution-graph.svg"
-          [ -f "dist/breakout-contribution-graph-dark.svg" ] && mv "dist/breakout-contribution-graph-dark.svg" "output/breakout-contribution-graph-dark.svg"
-          echo "Files in output:"; ls -la output/
-
-      - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update breakout contribution graph [skip ci]"
-            git pull --rebase origin main
-            git push
-          fi
-
-  generate-galaga:
-    needs: generate-breakout
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Galaga contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        env:
-          NODE_OPTIONS: "--max-old-space-size=4096"
-        with:
-          github_user_name: bibek1414
-          games: "galaga"
-
-      - name: Move files to output directory
-        run: |
-          mkdir -p output
-          [ -f "dist/galaga-contribution-graph.svg" ]      && mv "dist/galaga-contribution-graph.svg"      "output/galaga-contribution-graph.svg"
-          [ -f "dist/galaga-contribution-graph-dark.svg" ] && mv "dist/galaga-contribution-graph-dark.svg" "output/galaga-contribution-graph-dark.svg"
-          echo "Files in output:"; ls -la output/
-
-      - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update galaga contribution graph [skip ci]"
-            git pull --rebase origin main
-            git push
-          fi
-
-  generate-puzzle-bobble:
-    needs: generate-galaga
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Puzzle Bobble contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        env:
-          NODE_OPTIONS: "--max-old-space-size=4096"
-        with:
-          github_user_name: bibek1414
-          games: "puzzle-bobble"
-
-      - name: Move files to output directory
-        run: |
-          mkdir -p output
-          [ -f "dist/puzzle-bobble-contribution-graph.svg" ]      && mv "dist/puzzle-bobble-contribution-graph.svg"      "output/puzzle-bobble-contribution-graph.svg"
-          [ -f "dist/puzzle-bobble-contribution-graph-dark.svg" ] && mv "dist/puzzle-bobble-contribution-graph-dark.svg" "output/puzzle-bobble-contribution-graph-dark.svg"
-          echo "Files in output:"; ls -la output/
-
-      - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update puzzle-bobble contribution graph [skip ci]"
-            git pull --rebase origin main
-            git push
-          fi
-
-  generate-bomberman:
-    needs: generate-puzzle-bobble
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Bomberman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        env:
-          NODE_OPTIONS: "--max-old-space-size=4096"
-        with:
-          github_user_name: bibek1414
-          games: "bomberman"
-
-      - name: Move files to output directory
-        run: |
-          mkdir -p output
-          [ -f "dist/bomberman-contribution-graph.svg" ]      && mv "dist/bomberman-contribution-graph.svg"      "output/bomberman-contribution-graph.svg"
-          [ -f "dist/bomberman-contribution-graph-dark.svg" ] && mv "dist/bomberman-contribution-graph-dark.svg" "output/bomberman-contribution-graph-dark.svg"
-          echo "Files in output:"; ls -la output/
-
-      - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update bomberman contribution graph [skip ci]"
+            git commit -m "Update all arcade contribution graphs [skip ci]"
             git pull --rebase origin main
             git push
           fi
