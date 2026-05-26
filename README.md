@@ -146,28 +146,6 @@ const bibek = {
 <br/>
 <br/>
 
-🫧 **Puzzle Bobble**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph.svg" />
-  <img alt="Puzzle Bobble Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph-dark.svg" width="100%" />
-</picture>
-
-<br/>
-<br/>
-
-💣 **Bomberman**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph.svg" />
-  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph-dark.svg" width="100%" />
-</picture>
-
-<br/>
-<br/>
-
 🐍 **Snake**
 
 <picture>
