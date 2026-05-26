@@ -16,39 +16,57 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate all contribution graphs
+      - name: Generate ALL contribution graphs in one step
         uses: abozanona/pacman-contribution-graph@main
         env:
           NODE_OPTIONS: "--max-old-space-size=4096"
         with:
           github_user_name: bibek1414
-          # Generate all games in ONE step
+          # ✅ Generate ALL games at once with comma-separated list
           games: "pacman,breakout,galaga,puzzle-bobble,bomberman"
 
       - name: Move files to output directory
         run: |
           mkdir -p output
-          # Move all generated SVG files
+          # Move all game files (light and dark themes)
           for game in pacman breakout galaga puzzle-bobble bomberman; do
-            [ -f "dist/${game}-contribution-graph.svg" ] && mv "dist/${game}-contribution-graph.svg" "output/${game}-contribution-graph.svg"
-            [ -f "dist/${game}-contribution-graph-dark.svg" ] && mv "dist/${game}-contribution-graph-dark.svg" "output/${game}-contribution-graph-dark.svg"
+            if [ -f "dist/${game}-contribution-graph.svg" ]; then
+              mv "dist/${game}-contribution-graph.svg" "output/${game}-contribution-graph.svg"
+              echo "✅ Moved ${game} light SVG"
+            else
+              echo "⚠️ Warning: ${game}-contribution-graph.svg not found"
+            fi
+            
+            if [ -f "dist/${game}-contribution-graph-dark.svg" ]; then
+              mv "dist/${game}-contribution-graph-dark.svg" "output/${game}-contribution-graph-dark.svg"
+              echo "✅ Moved ${game} dark SVG"
+            else
+              echo "⚠️ Warning: ${game}-contribution-graph-dark.svg not found"
+            fi
           done
-          echo "Files in output:"; ls -la output/
+          
+          echo "📁 Final files in output:"
+          ls -la output/
 
-      - name: Commit and push
+      - name: Commit and push to output branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # Ensure we're on main branch
+          git checkout main || git checkout -b main
+          
+          # Add and commit only if there are changes
           git add output/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update all arcade contribution graphs [skip ci]"
+            git commit -m "🎮 Update all arcade contribution graphs [skip ci]"
             git pull --rebase origin main
-            git push
+            git push origin main
           fi
