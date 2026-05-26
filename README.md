@@ -116,44 +116,44 @@ const bibek = {
 
 👻 **Pac-Man eating my contributions**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/pacman-contribution-graph.svg" />
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/main/pacman-contribution-graph.svg" />
 </picture>
 
 🧱 **Breakout breaking my contributions**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/breakout-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/breakout-contribution-graph.svg" />
-  <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/breakout-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/breakout-contribution-graph.svg" />
+  <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/main/breakout-contribution-graph.svg" />
 </picture>
 
 🚀 **Galaga shooting my contributions**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/galaga-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/galaga-contribution-graph.svg" />
-  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/galaga-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/galaga-contribution-graph.svg" />
+  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/main/galaga-contribution-graph.svg" />
 </picture>
 
 🫧 **Puzzle Bobble popping my contributions**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/puzzle-bobble-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/puzzle-bobble-contribution-graph.svg" />
-  <img alt="Puzzle Bobble Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/puzzle-bobble-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph.svg" />
+  <img alt="Puzzle Bobble Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/main/puzzle-bobble-contribution-graph.svg" />
 </picture>
 
 💣 **Bomberman blasting my contributions**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/bomberman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/bomberman-contribution-graph.svg" />
-  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/bomberman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph.svg" />
+  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/main/bomberman-contribution-graph.svg" />
 </picture>
 
 🐍 **Snake eating my contributions**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
 </picture>
 
 </details>
