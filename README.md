@@ -111,52 +111,70 @@ const bibek = {
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Contribution Animations</h2>
 
-<details open>
-  <summary><b>🎮 Click to expand/collapse all arcade games! (5 games + Snake)</b></summary>
+<br/>
 
-👻 **Pac-Man eating my contributions**
+👻 **Pac-Man**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/pacman-contribution-graph.svg" />
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/pacman-contribution-graph-dark.svg" width="100%" />
 </picture>
 
-🧱 **Breakout breaking my contributions**
+<br/>
+<br/>
+
+🧱 **Breakout**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/breakout-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/breakout-contribution-graph.svg" />
-  <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/breakout-contribution-graph.svg" />
+  <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/breakout-contribution-graph-dark.svg" width="100%" />
 </picture>
 
-🚀 **Galaga shooting my contributions**
+<br/>
+<br/>
+
+🚀 **Galaga**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/galaga-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/galaga-contribution-graph.svg" />
-  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output//galaga-contribution-graph.svg" />
+  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/galaga-contribution-graph-dark.svg" width="100%" />
 </picture>
 
-🫧 **Puzzle Bobble popping my contributions**
+<br/>
+<br/>
+
+🫧 **Puzzle Bobble**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph.svg" />
-  <img alt="Puzzle Bobble Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph.svg" />
+  <img alt="Puzzle Bobble Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph-dark.svg" width="100%" />
 </picture>
 
-💣 **Bomberman blasting my contributions**
+<br/>
+<br/>
+
+💣 **Bomberman**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph.svg" />
-  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph.svg" />
+  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph-dark.svg" width="100%" />
 </picture>
 
-🐍 **Snake eating my contributions**
+<br/>
+<br/>
+
+🐍 **Snake**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake-dark.svg" width="100%" />
 </picture>
-
-</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -166,23 +184,33 @@ const bibek = {
   <img src="https://github-profile-trophy.vercel.app/?username=bibek1414&theme=darkhub&no-frame=true&column=7&margin-w=10" width="100%" alt="Trophy" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bibek1414&show_icons=true&count_private=true&hide_border=true&title_color=00E8FF&icon_color=00E8FF&text_color=c9d1d9&bg_color=0d1117" alt="Bibek Bhattarai's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek1414&layout=compact&hide_border=true&title_color=00E8FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibek1414&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF" width="100%" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibek1414&bg_color=0d1117&color=00E8FF&line=00E8FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
