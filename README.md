@@ -154,6 +154,39 @@ const bibek = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/snake-dark.svg" width="100%" />
 </picture>
 
+<br/>
+<br/>
+
+💠 **Minesweeper**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/minesweeper-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/minesweeper-contribution-graph.svg" />
+  <img alt="Minesweeper Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/minesweeper-contribution-graph-dark.svg" width="100%" />
+</picture>
+
+<br/>
+<br/>
+
+🫧 **Puzzle Bobble**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph.svg" />
+  <img alt="Puzzle Bobble Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/puzzle-bobble-contribution-graph-dark.svg" width="100%" />
+</picture>
+
+<br/>
+<br/>
+
+💣 **Bomberman**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph.svg" />
+  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/bibek1414/bibek1414/main/output/bomberman-contribution-graph-dark.svg" width="100%" />
+</picture>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212744257-94543038-acec-4a48-a2aa-a9def11dc6c4.gif" width="40" /> GitHub Stats</h2>
