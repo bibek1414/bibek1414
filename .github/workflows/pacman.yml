@@ -22,19 +22,19 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate ALL contribution graphs in one step
-        uses: abozanona/pacman-contribution-graph@main
+        uses: bibek1414/pacman-contribution-graph@main
         env:
           NODE_OPTIONS: "--max-old-space-size=4096"
         with:
           github_user_name: bibek1414
           # ✅ Generate ALL games at once with comma-separated list
-          games: "pacman,breakout,galaga,puzzle-bobble,bomberman"
+          games: "pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper"
 
       - name: Move files to output directory
         run: |
           mkdir -p output
           # Move all game files (light and dark themes)
-          for game in pacman breakout galaga puzzle-bobble bomberman; do
+          for game in pacman breakout galaga puzzle-bobble bomberman minesweeper; do
             if [ -f "dist/${game}-contribution-graph.svg" ]; then
               mv "dist/${game}-contribution-graph.svg" "output/${game}-contribution-graph.svg"
               echo "✅ Moved ${game} light SVG"
