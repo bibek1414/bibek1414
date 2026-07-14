@@ -28,13 +28,13 @@ jobs:
         with:
           github_user_name: bibek1414
           # ✅ Generate ALL games at once with comma-separated list
-          games: "pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper"
+          games: "pacman,breakout,galaga,bomberman,minesweeper"
 
       - name: Move files to output directory
         run: |
           mkdir -p output
           # Move all game files (light and dark themes)
-          for game in pacman breakout galaga puzzle-bobble bomberman minesweeper; do
+          for game in pacman breakout galaga bomberman minesweeper; do
             if [ -f "dist/${game}-contribution-graph.svg" ]; then
               mv "dist/${game}-contribution-graph.svg" "output/${game}-contribution-graph.svg"
               echo "✅ Moved ${game} light SVG"
