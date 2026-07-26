@@ -52,11 +52,7 @@ const bibek = {
 };
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/317pmqw3mrxsvootc53jy2bbolr4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317pmqw3mrxsvootc53jy2bbolr4&count=5" alt="Spotify recently played" />
-  </a>
-</div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
